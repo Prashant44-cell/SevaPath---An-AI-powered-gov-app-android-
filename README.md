@@ -272,5 +272,4 @@ For the full Kotlin models, persistence schema, pseudocode, risk register and ar
 ## License and contribution
 
 SevaPath is being developed as a Digital Public Good concept. Before public release, add the final open-source license, contribution guide, API license, model cards, dataset provenance and deployment documentation.
-#   S e v a P a t h - - - A n - A I - p o w e r e d - g o v - a p p - a n d r o i d -  
- 
+#
