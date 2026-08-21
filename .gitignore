@@ -1,0 +1,33 @@
+# Android / Gradle build output
+.gradle/
+.gradle-user/
+.kotlin/
+build/
+*/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# IDE and local machine files
+.idea/
+.vscode/
+local.properties
+*.iml
+*.ipr
+*.iws
+
+# Signing and secrets
+*.jks
+*.keystore
+secrets.properties
+
+# Generated verification and graph artifacts
+artifacts/
+graphify-out/
+
+# Local tool distributions
+gradle-*/
+
+# OS files
+.DS_Store
+Thumbs.db

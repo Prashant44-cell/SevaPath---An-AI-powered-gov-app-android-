@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">SevaPath</string>
+    <string name="app_tagline">Every voice. Better priorities.</string>
+    <string name="report_issue">Report an issue</string>
+    <string name="see_hotspots">See hotspots</string>
+    <string name="track_requests">Track requests</string>
+    <string name="home">Home</string>
+    <string name="report">Report</string>
+    <string name="insights">Insights</string>
+    <string name="track">Track</string>
+</resources>
